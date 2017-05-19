@@ -23,3 +23,4 @@ resultado<-var1/var2
 resultado
 print("puñetas")
 print("chupame la cola")
+print("Hola")
